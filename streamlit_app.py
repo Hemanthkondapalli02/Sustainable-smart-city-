@@ -1,6 +1,6 @@
 import streamlit as st
 import datetime
-from langchain-ibm import WatsonxLLM
+from langchain_ibm import WatsonxLLM
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 
