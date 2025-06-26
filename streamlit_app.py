@@ -3,7 +3,7 @@ import datetime
 from langchain_ibm import WatsonxLLM
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-
+#
 # ✅ IBM Watsonx configuration - Replace with your actual credentials
 WATSONX_URL = "https://us-south.ml.cloud.ibm.com"  # Replace with your actual URL
 WATSONX_APIKEY = "v2pjUHPAm5HfLBGpVN5T1-DHjM3tbAVIzyQmEUhMS_0v"  # Replace with your actual API key
