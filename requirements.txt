@@ -1,0 +1,4 @@
+streamlit
+langchain
+langchain_ibm
+ibm-watson-machine-learning
