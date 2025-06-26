@@ -2,3 +2,5 @@ streamlit
 langchain
 langchain-ibm
 ibm-watson-machine-learning
+pandas
+numpy
