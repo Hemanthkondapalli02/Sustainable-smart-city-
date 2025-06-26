@@ -1,4 +1,4 @@
 streamlit
 langchain
-langchain_ibm
+langchain-ibm
 ibm-watson-machine-learning
