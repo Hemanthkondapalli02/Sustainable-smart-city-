@@ -21,23 +21,22 @@ JSON, CSV, and text file integration for ingesting and processing structured/uns
 
 Use Case Scenarios
 
-**Policy Search & Summarization**
-
+**Policy Search & Summarization**:
 A municipal planner uploads a complex city policy document to the assistant’s interface. In seconds, the assistant summarizes it into a concise, citizen-friendly version using IBM Granite LLM. This empowers planners to quickly interpret key points and make informed urban decisions.
 
 
-**Citizen Feedback Reporting**
+**Citizen Feedback Reporting**:
 A resident notices a burst water pipe on a city street. Instead of calling helplines, they submit a report through the assistant’s feedback form. The issue is logged instantly with category tagging (e.g., "Water") and can be reviewed by city administrators.
 
 
-**KPI Forecasting**
+**KPI Forecasting**:
 A city administrator uploads last year’s water usage KPI CSV. The assistant forecasts next year’s consumption using built-in machine learning. This data is used in planning budgets and infrastructure upgrades.
 
-**Eco Tips Generator**
+**Eco Tips Generator**:
 During an environmental awareness session at a local school, the teacher uses the “Eco Tips” assistant. Students input keywords like “plastic” or “solar” and receive actionable AI- generated tips on living sustainably.
 
 
-**Anomaly Detection**
+**Anomaly Detection**:
 A smart city’s energy department uploads monthly energy consumption KPIs from various zones into the assistant. The anomaly detection module instantly highlights a sharp, unexpected surge in Sector 12’s usage.
 
 Further investigation reveals unauthorized construction activity that was consuming electricity outside permitted levels. The department acts quickly to address the violation and prevent resource strain.
